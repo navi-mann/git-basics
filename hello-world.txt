@@ -1,1 +1,2 @@
 Hello team EDI!
+This is the intro to Git!
